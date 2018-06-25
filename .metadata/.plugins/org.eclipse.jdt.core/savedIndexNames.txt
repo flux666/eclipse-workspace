@@ -2,7 +2,6 @@ INDEX VERSION 1.130+E:\Users\flux6\eclipse-workspace\eclipse-workspace\.metadata
 194259052.index
 1477788888.index
 922380862.index
-397375577.index
 4265864773.index
 628019425.index
 3698447926.index

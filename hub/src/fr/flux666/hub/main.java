@@ -11,7 +11,6 @@ public class main extends JavaPlugin implements Listener {
 	
 	public void onDisable() {
 		System.out.print("hub Disable");
-		vyukfhukfyuk
 	}
 	
 }
