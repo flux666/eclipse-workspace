@@ -1,7 +1,0 @@
-mane: hub
-version: 0.1
-author: flux666
-main: fr.flux666.hub.main
-command:
-  spawn:
-    description: aller au spawn
